@@ -1,0 +1,5 @@
+console.log("Pravesh") //ye use hota hai print k liye
+var id="1234"//vafr was used earlier but not used now becuase of its limited scope issue
+//let id="2345"// its uded in place of char
+const name="Pravesh"//constant 
+console.log(id)
