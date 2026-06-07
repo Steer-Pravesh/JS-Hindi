@@ -1,1 +1,1 @@
-config.log("Pravesh")
+console.log("Pravesh")
